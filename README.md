@@ -8,3 +8,6 @@ Two alogrithm's introductions have finished, six introductions left.
 Add the introduction of kNN algorithm
 ## 12/19/2018 13:11
 Add the introduction of SVM algorithm
+## 12/19/2018 22:33
+Add the introduction of naive bayes algorithm
+Two introductions left.
