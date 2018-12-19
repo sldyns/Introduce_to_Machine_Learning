@@ -6,3 +6,5 @@ Have finished the part 'Development' and 'Category'
 Two alogrithm's introductions have finished, six introductions left.
 ## 12/18/2018 21:55
 Add the introduction of kNN algorithm
+## 12/19/2018 13:11
+Add the introduction of SVM algorithm
