@@ -11,3 +11,6 @@ Add the introduction of SVM algorithm
 ## 12/19/2018 22:33
 Add the introduction of naive bayes algorithm
 Two introductions left.
+## 12/25/2018 22:33
+Add the introduction of BP algorithm
+CNN's introduction left.
