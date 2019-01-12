@@ -14,3 +14,5 @@ Two introductions left.
 ## 12/25/2018 22:33
 Add the introduction of BP algorithm
 CNN's introduction left.
+## 1/13/2019 00:54
+Finish all the paper.
